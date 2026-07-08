@@ -4,7 +4,7 @@ A research-oriented comparison of popular document loaders used in Retrieval-Aug
 
 This repository evaluates multiple PDF extraction approaches ranging from traditional text parsers to OCR-enhanced and layout-aware document processing pipelines. The primary objective is to understand how different document loaders perform when dealing with documents of varying complexity, particularly historical, scanned, and mixed-format PDFs.
 
-> **Note:** This repository is **not intended to provide a definitive ranking of document loaders.** The performance of each loader depends heavily on the characteristics of the source document and the intended downstream application.
+> **Note:** This repository is **not intended to provide a definitive ranking of document loaders.** The performance of each loader depends heavily on the characteristics of the source document and the intended downstream application. i am open to hearing suggestions at m.shaheer1915@gmail.com
 
 ---
 
