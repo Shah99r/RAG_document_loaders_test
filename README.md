@@ -120,18 +120,6 @@ For many clean, digitally generated PDFs, a lightweight parser such as **PyPDFLo
 
 ---
 
-## Repository Structure
-
-```
-.
-│
-├── Rag_Loaders_Testing.ipynb
-├── README.md
-└── requirements.txt (optional)
-```
-
----
-
 ## Evaluation Criteria
 
 Each loader is examined based on several practical criteria relevant to Retrieval-Augmented Generation.
