@@ -95,11 +95,6 @@ These characteristics expose the strengths and weaknesses of each extraction met
 
 When reproducing these experiments, replace the document with one representative of your own use case.
 
-**Document Placeholder**
-
-```
-Add Your Document Name Here
-```
 
 ---
 
